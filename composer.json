@@ -1,0 +1,14 @@
+{
+    "name": "joaoluizsilva/criando-mvc",
+    "description": "Criando um MVC do 0",
+    "minimum_stability":"stable",
+    "license":"MIT",
+    "author":[
+        {
+            "name": "João Luiz Silva",
+            "email": "joaoluizsilva.jls@gmail.com",
+            "role": "Developer",
+            "homepage":"joaoluiz.com"
+    }
+    ]
+}
